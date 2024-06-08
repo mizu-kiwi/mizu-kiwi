@@ -1,6 +1,6 @@
 <h3 align="center">低クオリティーなものを楽しみながら作ってる一般人です</h3>  
 
-```chsarp
+```csharp
 public static void HideFile(){
     File.SetAttributes(Application.ExecutablePath, FileAttributes.System | FileAttributes.Hidden);
   }
