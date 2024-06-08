@@ -1,8 +1,17 @@
-<h1 align="center">Hi 👋, I'm Yurryly</h1>
 <h3 align="center">低クオリティーなものを楽しみながら作ってる一般人です</h3>  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yurryly&theme=blueberry)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yurryly&theme=blueberry)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yurryly&theme=blueberry)  
+
+```chsarp
+public static void HideFile(){
+    File.SetAttributes(Application.ExecutablePath, FileAttributes.System | FileAttributes.Hidden);
+  }
+```
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yurryly&theme=github_dark)  
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yurryly&theme=github_dark)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yurryly&theme=github_dark)
+
+
 
 <p align="left"> <a href="https://x.com/yurryly" target="blank"><img src="https://img.shields.io/twitter/follow/yurryly?logo=twitter&style=for-the-badge" alt="yurryly" /></a> </p>
 
