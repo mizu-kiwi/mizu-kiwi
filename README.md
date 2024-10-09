@@ -13,7 +13,7 @@ public static void HideFile(){
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yurryly&theme=github_dark)
 
 
-<p align="left"> <a href="https://x.com/yurryly" target="blank"><img src="https://img.shields.io/twitter/follow/yurryly?logo=twitter&style=for-the-badge" alt="yurryly" /></a> </p>
+<p align="left"> <a href="https://x.com/yuffifyy" target="blank"><img src="https://img.shields.io/twitter/follow/yurryly?logo=twitter&style=for-the-badge" alt="yurryly" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
