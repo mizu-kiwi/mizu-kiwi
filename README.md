@@ -1,4 +1,4 @@
-<h3 align="center">低クオリティーなものを楽しみながら作ってる一般人です</h3>  
+<h3 align="center">OSSなんてなんもないよ？</h3>  
 
 ```csharp
 public static void HideFile(){
