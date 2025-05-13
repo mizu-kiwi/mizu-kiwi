@@ -6,18 +6,18 @@ public static void HideFile(){
   }
 ```
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yurryly&theme=github_dark)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mizu-kiwi&theme=github_dark)  
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yurryly&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yurryly&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mizu-kiwi&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mizu-kiwi&theme=github_dark)
 
 
-<p align="left"> <a href="https://x.com/yuffifyy" target="blank"><img src="https://img.shields.io/twitter/follow/yurryly?logo=twitter&style=for-the-badge" alt="yurryly" /></a> </p>
+<p align="left"> <a href="https://x.com/yuffifyy" target="blank"><img src="https://img.shields.io/twitter/follow/mizu-kiwi?logo=twitter&style=for-the-badge" alt="mizu-kiwi" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/yuffifyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yurryly" height="30" width="40" /></a>
+<a href="https://x.com/yuffifyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mizu-kiwi" height="30" width="40" /></a>
 <a href="https://discord.gg/lunaclient" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/lunaclient" height="30" width="40" /></a>
 </p>
 
@@ -25,4 +25,4 @@ public static void HideFile(){
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.66; background: url('https://raw.githubusercontent.com/yurryly/yurryly/main/__bg.png');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.66; background: url('https://raw.githubusercontent.com/mizu-kiwi/mizu-kiwi/main/__bg.png');]{x0000}$}
