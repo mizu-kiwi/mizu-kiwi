@@ -13,11 +13,11 @@ public static void HideFile(){
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mizu-kiwi&theme=github_dark)
 
 
-<p align="left"> <a href="https://x.com/yuffifyy" target="blank"><img src="https://img.shields.io/twitter/follow/mizu-kiwi?logo=twitter&style=for-the-badge" alt="mizu-kiwi" /></a> </p>
+<p align="left"> <a href="https://x.com/mizu_kiwi" target="blank"><img src="https://img.shields.io/twitter/follow/mizu-kiwi?logo=twitter&style=for-the-badge" alt="mizu-kiwi" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/yuffifyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mizu-kiwi" height="30" width="40" /></a>
+<a href="https://x.com/mizu_kiwi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mizu-kiwi" height="30" width="40" /></a>
 <a href="https://discord.gg/lunaclient" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/lunaclient" height="30" width="40" /></a>
 </p>
 
