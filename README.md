@@ -1,4 +1,5 @@
-
+### Hypixel 1.8.9を引きずる老害  
+こんなもの見てる暇があったら[まのさば](https://store.steampowered.com/app/3101040/_/)をやりましょう
 ```csharp
 public static void HideFile(){
     File.SetAttributes(Application.ExecutablePath, FileAttributes.System | FileAttributes.Hidden);
